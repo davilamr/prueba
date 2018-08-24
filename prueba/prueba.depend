@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535072309 source:/home/profesor/Descargas/prueba/prueba/main.c
+	<stdio.h>
+	<stdlib.h>
+
